@@ -1,2 +1,2 @@
-# trybe-exercicios
-Exercicio da Trybe
+# Meu repositório de exercícios
+Exercicio de gitHub da Trybe
