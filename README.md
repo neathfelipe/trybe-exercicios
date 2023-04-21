@@ -23,3 +23,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 2.3 - HTML & CSS - Seletores e posicionamento
 - [ ] 2.4 - HTML semantico
 - [ ] 2.5 - Projeto Lessons Learned 
+
+
+ATUALIZAÇ]ÃO DA BRANCH ATUAL 
+DASKDAK
+DA
+DKAKDA
