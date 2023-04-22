@@ -1,8 +1,8 @@
 Internet
 Unix
 Bash
-Java
 HTML
 CSS
-Pyton
-C#
+JavaScript
+React
+SQL

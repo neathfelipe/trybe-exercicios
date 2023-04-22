@@ -1,10 +1,10 @@
 Afghanistan
 Albania
 Algeria
+Alguém que nao cumpre sua missão é considerado lixo, mas alguém que abandona seus amigos é considerado pior que lixo.
 Andorra
 Angola
 Antigua & Deps
-Argentina
 Argentina
 Armenia
 Australia
@@ -22,14 +22,12 @@ Bhutan
 Bolivia
 Bosnia Herzegovina
 Botswana
-Brasil é campeão
 Brazil
 Brazil
 Brunei
 Bulgaria
 Burkina
 Burundi
-Cachorros são legais
 Cambodia
 Cameroon
 Canada
@@ -64,7 +62,6 @@ Finland
 France
 Gabon
 Gambia
-Gatos são chatos
 Georgia
 Germany
 Ghana
@@ -75,6 +72,7 @@ Guinea
 Guinea-Bissau
 Guyana
 Haiti
+Holanda
 Honduras
 Hungary
 Iceland
@@ -126,6 +124,7 @@ Morocco
 Mozambique
 Myanmar, {Burma}
 Namibia
+Não tente ser alguém que você não é. 
 Nauru
 Nepal
 Netherlands
@@ -153,6 +152,7 @@ Samoa
 San Marino
 Sao Tome & Principe
 Saudi Arabia
+Se hoje não for o dia de começar, jamais será amanhã 
 Senegal
 Serbia
 Seychelles
@@ -195,7 +195,6 @@ Uzbekistan
 Vanuatu
 Vatican City
 Venezuela
-Ventilador pra me acalmar
 Vietnam
 Yemen
 Zambia
