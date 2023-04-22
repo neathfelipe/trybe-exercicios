@@ -12,10 +12,10 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ## Fundamentos do Desenvolvimento Web
 
-##### Seção 1: [Unix, Shell e Git](https://github.com/neathfelipe/trybe-exercicios/tree/main/fundamentos/secao-01-unix-shell-e-git/dia-01-unix-e-shell)
+##### Seção 1: [Unix, Shell e Git](https://github.com/neathfelipe/trybe-exercicios/tree/main/fundamentos/secao-01-unix-shell-e-git/dia-01-unix-e-shell) :heavy_check_mark: 
 - [x] 1.1 - Unix & Shell
 - [x] 1.2 - Git - O que é, e para que serve
-- [ ] 1.3 - Git & GitHub
+- [x] 1.3 - Git & GitHub
 
 ##### Seção 2: [Introdução a HTML e CSS](https://github.com/neathfelipe/trybe-exercicios/tree/main/fundamentos/secao-02-introducao-a-html-e-css)
 - [ ] 2.1 - Html & CSS - Estruturas de Página
