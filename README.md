@@ -18,8 +18,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 1.3 - Git & GitHub
 
 ##### Seção 2: [Introdução a HTML e CSS](https://github.com/neathfelipe/trybe-exercicios/tree/main/fundamentos/secao-02-introducao-a-html-e-css)
-- [ ] 2.1 - Html & CSS - Estruturas de Página
+- [X] 2.1 - Html & CSS - Estruturas de Página
 - [ ] 2.2 - HTML & CSS - Primeiros passos em CSS
 - [ ] 2.3 - HTML & CSS - Seletores e posicionamento
 - [ ] 2.4 - HTML semantico
 - [ ] 2.5 - Projeto Lessons Learned 
+
