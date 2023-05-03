@@ -24,7 +24,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 2.4 - HTML semantico
 - [X] 2.5 - Projeto Lessons Learned 
 
-##### Seção 3: [Introdução a JavaScript](hhttps://github.com/neathfelipe/trybe-exercicios/tree/main/fundamentos/secao-03-introducao-a-javascript)
+##### Seção 3: [Introdução a JavaScript](https://github.com/neathfelipe/trybe-exercicios/tree/main/fundamentos/secao-03-introducao-a-javascript)
 - [X] 3.1 - JavaScript - Primeiros passos
 - [ ] 3.2 - JavaScript - Array e loop For
 - [ ] 3.3 - JavaScript - Funções
