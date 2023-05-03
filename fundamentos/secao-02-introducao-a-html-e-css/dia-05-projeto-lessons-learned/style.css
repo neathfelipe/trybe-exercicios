@@ -1,0 +1,118 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+  font-family: Verdana, Tahoma, sans-serif;
+  color: rgb(75, 75, 75);
+  line-height: 1.2;
+  font-size: 17px;
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0;
+  background-color: green;
+  color: white;
+  margin-top: 0;
+  padding: 20px 0px;
+  display: inline-block;
+  width: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#titulo {
+  text-align: center;
+}
+
+#minha_foto {
+  max-width: 200px;
+  text-align: center;
+  border-radius: 300px;
+}
+
+main {
+  padding-top: 100px;
+
+}
+
+main img {
+  margin: auto;
+  margin-top: 15px;
+  display: block;
+}
+
+section {
+  margin-left: 250px;
+  display: inline-block;
+}
+
+section h2 {
+  width: 300px;
+}
+
+#licoes_aprendidas {
+  margin: 10px;
+  padding-left: 30px;
+  width: 200px;
+  margin-bottom: 100px;
+}
+
+#licoes_a_aprender {
+  margin: 10px;
+  padding-right: 10px;
+  width: 200px;
+  margin-bottom: 100px;
+
+}
+
+.lado-esquerdo {
+  display: inline-block;
+  margin: 10px;
+  padding-left: 30px;
+  max-width: 40%;
+  vertical-align: top;
+}
+
+.lado-direito {
+  display: inline-block;
+  margin: 0px 150px;
+  padding-left: 50px;
+  max-width: 20%;
+  vertical-align: top;
+  font-size: 15px;
+}
+
+footer {
+  background-color: black;
+  text-align: center;
+  padding: 15px 0;
+  height: 42px;
+  padding-top: 25px;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  margin-left: 40px;
+}
+
+a:hover {
+  color: chartreuse;
+}
+
+.text-article {
+  display: inline-block;
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 20px;
+}
+
+.text-licoes {
+  display: inline-block;
+  width: 60%;
+  margin: 0 20%;
+}
