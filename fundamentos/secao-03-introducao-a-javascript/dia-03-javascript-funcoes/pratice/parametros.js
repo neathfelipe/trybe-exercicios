@@ -24,7 +24,7 @@ function removeClienteTrybeBank(cliente) {
       if (cliente === clientesTrybeBank[index]) {
         clientesTrybeBank.splice(index, 1);
         clienteEncontrado = true
-        return 'Cliente excluido com sucesso';
+        return 'Cliente excluído com sucesso';
       }
     }
     if (clienteEncontrado === false)
@@ -38,3 +38,5 @@ console.log(removeClienteTrybeBank(false));
 console.log(removeClienteTrybeBank('José'));
 console.log(removeClienteTrybeBank('Ada'));
 console.log(clientesTrybeBank);
+
+
