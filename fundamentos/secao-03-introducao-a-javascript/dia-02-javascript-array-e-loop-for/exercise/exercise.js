@@ -67,7 +67,7 @@ console.log(arrayNumbers);
 
 //Utilizando o array que acabou de criar, imprima o resultado da divisão de cada um dos elementos por 2.
 for (let i = 0; i < arrayNumbers.length; i += 1) {
-  console.log(arrayNumbers[index] / 2);
+  console.log(arrayNumbers[i] / 2);
 }
 
 /*O fatorial é a multiplicação de um número natural pelos seus antecessores, exceto o zero. Por exemplo:
@@ -106,26 +106,25 @@ let array = ["java", "javascript", "python", "html", "css"];
 let maiorWord = array[0];
 for (let index = 1; index < array.length; index += 1) {
   if (array[index].length > maiorWord.length) {
-maiorWord = array[index]
+    maiorWord = array[index]
   }
 }
 
 let menorWord = array[0];
 for (let index = 1; index < array.length; index += 1) {
   if (array[index].length > menorWord.length) {
-menorWord = array[index]
+    menorWord = array[index]
   }
 }
 
 //Um número primo é um número inteiro maior que 1 que possui somente dois divisores, ou seja, é divisível por 1 e por ele mesmo. Sabendo disso, escreva um algoritmo que imprima no console o maior número primo entre 2 e 50.
 let biggestNumber = 0;
 let maiorNum = 50;
-for (let index = 2; index < maiorNum; index += 1) {
-  for (let i = 2; i < maiorNum; i += 1) {
-    if (index % i === 0) {
-      return false
-    } else {
-      maiorNum = index
+for (let index = 0; index < maiorNum; index += 1) {
+  for (let num = 0; num < index; num += 1) {
+    if (index % num === 0 && index % 1 === 0) {
+      biggestNumber = index
     }
   }
-  }
+}
+console.log(biggestNumber);
