@@ -4,7 +4,7 @@ Como dica, você pode pesquisar uma função que faça uma string ficar com toda
 Se a peça passada for inválida, o código deve retornar uma mensagem de erro.
 Exemplo: bishop (bispo) -> diagonals (diagonais)*/
 
-let pecaXadrez = 'rook'.toLowerCase();
+let pecaXadrez = 'cavalo'.toLowerCase();
 
 switch (pecaXadrez) {
   case 'rei':

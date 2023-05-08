@@ -27,7 +27,7 @@ Resultado: R$ 2.612,55. */
 let descInss;
 let aliquotImpost;
 
-let salarioBruto = 10000.00;
+let salarioBruto = 9000.00;
 
 if (salarioBruto
   <= 1556.94) {
