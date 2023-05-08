@@ -26,9 +26,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Seção 3: [Introdução a JavaScript](https://github.com/neathfelipe/trybe-exercicios/tree/main/fundamentos/secao-03-introducao-a-javascript)
 - [X] 3.1 - JavaScript - Primeiros passos
-- [ ] 3.2 - JavaScript - Array e loop For
-- [ ] 3.3 - JavaScript - Funções
-- [ ] 3.4 - JavaScript - Objetos
+- [X] 3.2 - JavaScript - Array e loop For
+- [X] 3.3 - JavaScript - Funções
+- [X] 3.4 - JavaScript - Objetos
 - [ ] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
 - [ ] 3.6 - Projeto - Playground Functions
 
