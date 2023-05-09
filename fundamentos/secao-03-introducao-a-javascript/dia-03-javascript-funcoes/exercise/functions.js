@@ -44,18 +44,28 @@ function maiorPalavra(array) {
 }
 
 // // Requisito 5 - Crie a função maisRepetido
-// function maisRepetido(array) {
-//   let contador = [];
-//   let numMaisFreq;
-//   let num;
-//   for (let index = 0; index < array.length; index++) {
-//     num = array[index];
-//     if (num) {
+function maisRepetido(array) {
+  let numContagem = {}
+  let maisRepetido;
+  let maiorContagem = 0;
 
-//     }
-//   }
-// }
-// console.log(maisRepetido([2, 3, 2, 5, 8, 2, 3]));
+  for (let index = 0; index < array.length; index += 1) {
+    let num = array[index];
+    if (numContagem[num]) {
+      numContagem[num] += 1
+    } else {
+      numContagem[num] = 1;
+    }
+  }
+  for (let num in numContagem) {
+    if (numContagem[num] > maiorContagem) {
+      maiorContagem = numContagem[num]
+      maisRepetido = num
+    }
+  } return parseInt(maisRepetido)
+}
+
+console.log(maisRepetido([2, 3, 2, 5, 8, 2, 3]));
 
 // Requisito 6 - Crie a função somatorio
 function somatorio(number) {
