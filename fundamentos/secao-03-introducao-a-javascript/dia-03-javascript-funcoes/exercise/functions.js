@@ -57,6 +57,7 @@ function maisRepetido(array) {
       numContagem[num] = 1;
     }
   }
+
   for (let num in numContagem) {
     if (numContagem[num] > maiorContagem) {
       maiorContagem = numContagem[num]
