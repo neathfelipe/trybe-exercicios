@@ -32,7 +32,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
 - [X] 3.6 - Projeto - Playground Functions
 
-##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/neathfelipe/trybe-exercicios/tree/main/fundamentos/secao-03-introducao-a-javascript)
+##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/neathfelipe/trybe-exercicios/tree/main/fundamentos/secao-04-javascript-dom-eventos-e-web-storage)
 - [ ] 4.1 - JavaScript - DOM e seletores
 - [ ] 4.2 - JavaScript - Trabalhando com elementos
 - [ ] 4.3 - JavaScript - Eventos
