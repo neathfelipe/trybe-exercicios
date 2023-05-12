@@ -54,7 +54,6 @@ const hydrate = string => {
   let numbers = [];
   let sum = 0;
   for (let index = 0; index < stringOfNumbers.length; index += 1) {
-    // eslint-disable-next-line radix
     numbers.push(parseInt(stringOfNumbers[index]))
   }
   for (let num of numbers) {
@@ -64,5 +63,3 @@ const hydrate = string => {
   }
   return `${sum} copos de água`;
 }
-
-/* eslint no-undef: 0 */
