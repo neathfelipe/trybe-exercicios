@@ -33,9 +33,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 3.6 - Projeto - Playground Functions
 
 ##### Seção 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/neathfelipe/trybe-exercicios/tree/main/fundamentos/secao-04-javascript-dom-eventos-e-web-storage)
-- [ ] 4.1 - JavaScript - DOM e seletores
-- [ ] 4.2 - JavaScript - Trabalhando com elementos
-- [ ] 4.3 - JavaScript - Eventos
+- [X] 4.1 - JavaScript - DOM e seletores
+- [X] 4.2 - JavaScript - Trabalhando com elementos
+- [X] 4.3 - JavaScript - Eventos
 - [ ] 4.4 - JavaScript - Web Storage
-- [ ] 4.5 - Projeto - Arte com Pixels
-- [ ] 4.6 - Projetos Bonus
+- [X] 4.5 - Projeto - Arte com Pixels
