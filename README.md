@@ -36,7 +36,14 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 4.1 - JavaScript - DOM e seletores
 - [X] 4.2 - JavaScript - Trabalhando com elementos
 - [X] 4.3 - JavaScript - Eventos
-- [ ] 4.4 - JavaScript - Web Storage
+- [X] 4.4 - JavaScript - Web Storage
 - [X] 4.5 - Projeto - Arte com Pixels
+- [ ] 4.6 - Projetos Bonus  
 
 ##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/neathfelipe/trybe-exercicios/tree/main/fundamentos/secao-04-javascript-dom-eventos-e-web-storage)
+- [X] 5.1 - HTML-CSS-Forms
+- [ ] 5.2 - Bibliotecas JavaScript e Frameworks CSS
+- [ ] 5.3 - CSS Flexbox - Parte 1
+- [ ] 5.4 - CSS Flexbox - Parte 2
+- [ ] 5.5 - Responsividade
+- [ ] 5.6 - Project Trybewarts
