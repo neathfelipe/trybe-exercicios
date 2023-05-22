@@ -38,3 +38,5 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 4.3 - JavaScript - Eventos
 - [ ] 4.4 - JavaScript - Web Storage
 - [X] 4.5 - Projeto - Arte com Pixels
+
+##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/neathfelipe/trybe-exercicios/tree/main/fundamentos/secao-04-javascript-dom-eventos-e-web-storage)
