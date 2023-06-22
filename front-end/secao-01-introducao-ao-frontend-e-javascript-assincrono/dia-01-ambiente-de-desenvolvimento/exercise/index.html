@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Validador de Campos</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+</head>
+
+<body>
+  <div class="container">
+    <h1>Validador de campos</h1>
+    <form>
+      <input type="text" placeholder="Insira aqui o valor" id="value">    
+      <select name="campo" id="option">
+        <option value="cpf">CPF</option>
+        <option value="hexColor">Cor Hexadecimal</option>
+        <option value="email">E-mail</option>
+        <option value="url">Url</option>
+        <option value="uppercase">Maiúsculo</option>
+      </select>    
+      <button id="button">Validar</button>
+    </form>
+
+   
+    <p id="answer">Digite o valor, escolha a opção e clique em validar</p>
+  </div>
+  <script type="module" src="./src/main.js"></script>
+</body>
+
+</html>
