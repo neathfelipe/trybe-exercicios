@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 header h1 {
@@ -66,14 +66,32 @@ input {
 }
 
 #listaMoedas {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+  display: flex;
+  max-height: 100vh;
+  justify-content: center;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+  direction: ltr;
+  margin-right: 10px;
+  padding-bottom: 10px;
+}
+
+#listaMoedas::-webkit-scrollbar {
+  width: 7px;
+}
+
+#listaMoedas::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+#listaMoedas::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 10px;
 }
 
 section h3 {
-    padding-top: 10px;
-    margin: 10px;
+  padding-top: 10px;
+  margin: 10px;
   color: #fff;
   font-size: 24px;
   font-family: "Fira Code";
@@ -97,7 +115,6 @@ section li h4 {
   color: #fff;
   font-size: 16px;
   font-family: Fira Code;
-
 }
 
 section li p {
@@ -111,14 +128,14 @@ section li p {
 }
 
 footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin-top: 10px;
-    color: rgba(255, 255, 255, 0.425);
-    height: 60px;
-    bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 10px;
+  color: rgba(255, 255, 255, 0.425);
+  height: 60px;
+  bottom: 0;
 }
 
 h1 span {
@@ -126,6 +143,6 @@ h1 span {
 }
 
 .swal2-popup {
-    background-color: #19191a;
-    color: #fff;
+  background-color: #19191a;
+  color: #fff;
 }
