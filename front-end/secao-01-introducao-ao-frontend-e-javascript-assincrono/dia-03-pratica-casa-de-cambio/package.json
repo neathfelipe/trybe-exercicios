@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Josuerodriguers/exercise-casa-de-cambio#readme",
   "dependencies": {
     "@trybe/eslint-config-frontend": "^1.11.3",
+    "eslint": "^8.43.0",
     "sweetalert2": "^11.7.12",
     "vite": "^4.3.9"
   },
