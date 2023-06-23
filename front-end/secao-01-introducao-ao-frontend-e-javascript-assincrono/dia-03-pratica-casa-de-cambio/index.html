@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./src/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <title>Casa de Câmbio</title>
+</head>
+<body>
+    <header>
+        <h1>Casa de <span>Câmbio</span></h1>
+    </header>
+    <main>
+        <section>
+            <label for="">Digite a moeda:</label><br>
+            <input type="text" maxlength="3" placeholder="USD">
+            <button id="button">Pesquisar</button>
+        </section>
+        <section class="Value">
+            <h3 class="invisible">Valores referentes a 1 <span id="moeda"></span></h3>
+            <section id="listaMoedas">
+
+            </section>
+        </section>
+    </main>
+    <footer>
+        <p>
+            Trabalho feito por Gabriel Muniz, Felipe Rodrigues, Davi Endi e Josue Azevedo
+        </p>
+    </footer>
+    
+    <script src="./src/main.js" type="module"></script>
+</body>
+</html>
