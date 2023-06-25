@@ -32,9 +32,9 @@ btnGenerate.addEventListener('click', () => {
       const dataInfo = data[numberRandom];
       if (dataInfo) {
         if (dataInfo.biography['fullName'].length === 0) {
-          fullName.innerHTML = `<strong>Fullname</strong>: ${dataInfo.name}`;
+          fullName.innerHTML = `<strong>Fullname</strong>: ${dataInfo.name} <br> <strong>Alter Egos</strong>: ${dataInfo.biography.alterEgos}`;
         } else {
-          fullName.innerHTML = `<strong>Fullname</strong>: ${dataInfo.biography['fullName']}`;
+          fullName.innerHTML = `<strong>Fullname</strong>: ${dataInfo.biography['fullName']} <br> <strong>Alter Egos</strong>: ${dataInfo.biography.alterEgos} `;
         }
         img.src = dataInfo.images['md'],
         nome.innerHTML = dataInfo.name,
@@ -63,13 +63,13 @@ btnAnswer.addEventListener('click', () => {
       const hero = data.find(({ name }) => name === nome.innerText);
       if ((hero.name.toLowerCase().includes(inputValue) || hero.biography['fullName'].toLowerCase().includes(inputValue)) && inputValue.length > 3) {
         addInvisible(inputAnswer);
-        message.innerHTML = ' <img src="./src/images/checked-tick-svgrepo-com.svg" alt="correct" srcset="">Congratulations, you got it right!';
+        message.innerHTML = ' <img src="https://www.svgrepo.com/show/207509/checked-tick.svg" alt="correct" srcset="">Congratulations, you got it right!';
         removeInvisible(nome);
         removeInvisible(fullName);
-      } else if (inputValue.length <= 3) {
-        message.innerHTML = '<img src="./src/images/cancel-svgrepo-com.svg" alt="error" srcset=""> Enter at least 4 letters';
+      } else if (inputValue.length <= 2) {
+        message.innerHTML = '<img src="https://www.svgrepo.com/show/207510/cancel.svg" alt="error" srcset=""> Enter at least 3 letters';
       } else {
-        message.innerHTML = '<img src="./src/images/cancel-svgrepo-com.svg" alt="error" srcset=""> Sorry you made a mistake, please try again.';
+        message.innerHTML = '<img src="https://www.svgrepo.com/show/207510/cancel.svg" alt="error" srcset=""> Sorry you made a mistake, please try again.';
       }
     });
 });
