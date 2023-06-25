@@ -50,7 +50,12 @@ btnGenerate.addEventListener('click', () => {
       message.classList.remove('invisible');
     });
 });
-  
+
+inputAnswer.addEventListener('keyup', (e) =>{
+  if (e.keyCode === 13) {
+    btnAnswer.click();
+  }
+});
   
 btnAnswer.addEventListener('click', () => {
   message.innerHTML = '';
