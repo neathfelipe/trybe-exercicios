@@ -10,11 +10,13 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 
 ## Seções
-Essa pasta será separada por 7 seções, sendo elas: 
-1. Unix, Shell e Git 
-2. Introdução à HTML & CSS 
-3. Introdução à JavaScript 
-4. JavaScript: DOM, Eventos e Web Storage 
-5. HTML e CSS: Forms, Flexbox e Responsivo 
-6. Introdução À JavaScript ES6 e Testes Unitários 
-7. Higher Order Functions do JavaScript ES6
+Essa pasta será separada por 9 seções, sendo elas: 
+1. Introdução ao Frontend e JavaScript assíncrono
+2. Introdução ao React
+3. Aprofundando no React
+4. Testes automatizados com React Testing Library
+5. Estilização e Metodologia Ágil
+6. Gerenciamento de estado com Redux
+7. Projeto Jogo de Trivia
+8. Context API e React Hooks
+9. Projeto App de Receitas
