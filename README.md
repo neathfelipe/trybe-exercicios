@@ -77,8 +77,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Seção 2: [Introdução ao React e ao Typescript](https://github.com/neathfelipe/trybe-exercicios/tree/2-frontend-2.1/front-end/secao-02-introducao-ao-react) ✅
 - [X] 2.1 - Introdução ao REact e ao Typescript
 - [X] 2.2 - Componentes React e Props
-- [ ] 2.3 - Avançando em componentes
-- [ ] 2.4 - Pratica - Solar System
+- [X] 2.3 - Avançando em componentes
+- [X] 2.4 - Pratica - Solar System
 - [ ] 2.5 - Estados e Eventos
 - [ ] 2.6 - Formulários
 - [ ] 2.7 - Pratica - Store Back Office
