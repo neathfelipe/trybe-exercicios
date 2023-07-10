@@ -1,0 +1,10 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+  flex-wrap: wrap;
+}
+
+input {
+  width: 100%;
+}
