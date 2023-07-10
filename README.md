@@ -79,7 +79,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 2.2 - Componentes React e Props
 - [X] 2.3 - Avançando em componentes
 - [X] 2.4 - Pratica - Solar System
-- [ ] 2.5 - Estados e Eventos
-- [ ] 2.6 - Formulários
+- [X] 2.5 - Estados e Eventos
+- [X] 2.6 - Formulários
 - [ ] 2.7 - Pratica - Store Back Office
 - [ ] 2.8 - Project Password Manager
