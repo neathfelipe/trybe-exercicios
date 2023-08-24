@@ -1,6 +1,6 @@
-export const INCREMENT_COUNTER = "INCREMENT_COUNTER";
+export const actionName = "MODIFIED_COUNTER";
 
-export const actionIncrementCounter = (increment = 1) => ({
-  type: INCREMENT_COUNTER,
-  payload: increment,
+export const actionIncrementCounter = (numberModified = 1) => ({
+  type: actionName,
+  payload: numberModified,
 });
